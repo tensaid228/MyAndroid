@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroid</string>
+    <string name="DegaultText">Привет</string>
+    <string name="PlusWord">Плюс Слово</string>
+</resources>
